@@ -1,1 +1,2 @@
 # clash
+Clash配置
