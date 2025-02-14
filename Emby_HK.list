@@ -1,0 +1,4 @@
+# em
+DOMAIN-SUFFIX,us.nanflix.net
+DOMAIN-SUFFIX,lite.saturday.video
+IP-CIDR,152.53.55.180/24,no-resolve
