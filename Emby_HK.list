@@ -1,5 +1,5 @@
 # em
 DOMAIN-SUFFIX,us.nanflix.net
-IP-CIDR,152.53.54.201/24,no-resolve
 DOMAIN-SUFFIX,lite.saturday.video
-IP-CIDR,152.53.55.180/24,no-resolve
+IP-CIDR,152.53.54.201/32,no-resolve
+IP-CIDR,152.53.55.180/32,no-resolve
