@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,us.nanflix.net
 DOMAIN-SUFFIX,lite.saturday.video
 DOMAIN-SUFFIX,mediacf.doven.tv
 DOMAIN-SUFFIX,emby.ucloudhost.top
+DOMAIN-SUFFIX,emby.nebula-media.org
 IP-CIDR,152.53.54.201/32,no-resolve
 IP-CIDR,152.53.55.180/32,no-resolve
 IP-CIDR,135.180.189.141/32,no-resolve
+IP-CIDR,138.199.168.30/32,no-resolve
