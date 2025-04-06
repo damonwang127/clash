@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,mediacf.doven.tv
 DOMAIN-SUFFIX,emby.ucloudhost.top
 DOMAIN-SUFFIX,emby.nebula-media.org
 DOMAIN-SUFFIX,misty.cx
+DOMAIN-SUFFIX,tanhuatv.site
 IP-CIDR,152.53.54.201/32,no-resolve
 IP-CIDR,152.53.55.180/32,no-resolve
 IP-CIDR,135.180.189.141/32,no-resolve
