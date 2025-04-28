@@ -2,6 +2,8 @@
 DOMAIN-SUFFIX,us.nanflix.net
 DOMAIN-SUFFIX,lite.saturday.video
 DOMAIN-SUFFIX,lite.saturdayvideo.top
+DOMAIN-SUFFIX,free.28.al
+DOMAIN-SUFFIX,qdzfreecdn.b-cdn.net
 DOMAIN-SUFFIX,emby.ucloudhost.top
 DOMAIN-SUFFIX,sfcj.org
 DOMAIN-SUFFIX,nebula-media.org
@@ -21,3 +23,5 @@ IP-CIDR,104.26.4.39/32,no-resolve
 IP-CIDR,82.152.162.202/32,no-resolve
 IP-CIDR,172.96.141.88/32,no-resolve
 IP-CIDR,92.112.124.85/32,no-resolve
+IP-CIDR,169.150.221.147/32,no-resolve
+IP-CIDR,192.99.35.111/32,no-resolve
