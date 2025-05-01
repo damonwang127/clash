@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,tanhuatv.site
 DOMAIN-SUFFIX,emby.younoyes.com
 DOMAIN-SUFFIX,emby1.123456789.lol
 DOMAIN-SUFFIX,emby.yunti.online
+DOMAIN-SUFFIX,embymv.link
 IP-CIDR,152.53.54.201/32,no-resolve
 IP-CIDR,152.53.55.180/32,no-resolve
 IP-CIDR,135.180.189.141/32,no-resolve
