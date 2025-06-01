@@ -1,7 +1,5 @@
 #HK
 DOMAIN-SUFFIX,us.nanflix.net
-DOMAIN-SUFFIX,lite.saturday.video
-DOMAIN-SUFFIX,lite.saturdayvideo.top
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,qdzfreecdn.b-cdn.net
 DOMAIN-SUFFIX,emby.ucloudhost.top
@@ -11,11 +9,14 @@ DOMAIN-SUFFIX,misty.cx
 DOMAIN-SUFFIX,emby.bangumi.ca
 DOMAIN-SUFFIX,alihk.lemby.me
 DOMAIN-SUFFIX,cf.lemby.me
+DOMAIN-SUFFIX,emby3.mcjoker.xyz
 DOMAIN-SUFFIX,tanhuatv.site
 DOMAIN-SUFFIX,emby.younoyes.com
 DOMAIN-SUFFIX,emby1.123456789.lol
 DOMAIN-SUFFIX,emby.yunti.online
 DOMAIN-SUFFIX,embymv.link
+DOMAIN-SUFFIX,cc.coemn.com
+DOMAIN-SUFFIX,cc.embycc.link
 IP-CIDR,152.53.54.201/32,no-resolve
 IP-CIDR,152.53.55.180/32,no-resolve
 IP-CIDR,135.180.189.141/32,no-resolve
