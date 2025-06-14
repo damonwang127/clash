@@ -1,13 +1,13 @@
 #自定义直连
+#PT
 DOMAIN-KEYWORD,m-team
-DOMAIN-SUFFIX,t.audiences.me
-DOMAIN-SUFFIX,tracker.cinefiles.info
 DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,hdhome.org
-DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-KEYWORD,qingwa
 DOMAIN-KEYWORD,ptzone
 DOMAIN-KEYWORD,crabpt
 DOMAIN-KEYWORD,pthome
+#tracker
+DOMAIN-SUFFIX,t.audiences.me
+DOMAIN-SUFFIX,tracker.cinefiles.info
