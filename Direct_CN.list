@@ -1,6 +1,8 @@
 #自定义直连
 #PT
 DOMAIN-KEYWORD,m-team
+DOMAIN,hhan.club
+DOMAIN,hhanclub.top
 DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,totheglory.im
@@ -13,6 +15,8 @@ DOMAIN-KEYWORD,pthome
 DOMAIN,tracker.m-team.cc
 DOMAIN,t.audiences.me
 DOMAIN,tracker.cinefiles.info
+DOMAIN,tracker.trackerfile.com 
+DOMAIN,tracker.hhan.club
 DOMAIN,on.springsunday.net
 DOMAIN,tracker.ptchdbits.co
 DOMAIN,tracker.rainbowisland.co
