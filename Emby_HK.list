@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,onatoshi.114514.quest
 DOMAIN-SUFFIX,lite.cn2gias.uk
 DOMAIN-SUFFIX,lite-v6.cn2gias.uk
 DOMAIN-SUFFIX,emby.heisi.org
+DOMAIN-SUFFIX,emby.liminalnet.com
 IP-CIDR,152.53.240.135/32,no-resolve
 IP-CIDR,152.53.54.201/32,no-resolve
 IP-CIDR,135.180.189.141/32,no-resolve
@@ -39,3 +40,4 @@ IP-CIDR,172.96.141.88/32,no-resolve
 IP-CIDR,92.112.124.85/32,no-resolve
 IP-CIDR,169.150.221.147/32,no-resolve
 IP-CIDR,192.99.35.111/32,no-resolve
+
