@@ -1,8 +1,5 @@
 #HK
-DOMAIN-SUFFIX,us.nanflix.net
-DOMAIN-SUFFIX,free.28.al
-DOMAIN-SUFFIX,qdzfreecdn.b-cdn.net
-DOMAIN-SUFFIX,emby.ucloudhost.top
+DOMAIN-SUFFIX,ucloudhost.top
 DOMAIN-SUFFIX,sfcj.org
 DOMAIN-SUFFIX,nebula-media.org
 DOMAIN-SUFFIX,misty.cx
@@ -30,6 +27,9 @@ DOMAIN-SUFFIX,lite.cn2gias.uk
 DOMAIN-SUFFIX,lite-v6.cn2gias.uk
 DOMAIN-SUFFIX,emby.heisi.org
 DOMAIN-SUFFIX,emby.liminalnet.com
+DOMAIN-SUFFIX,mperformance.mebimmer.de
+DOMAIN-SUFFIX,dogone.sanluoluo.com
+DOMAIN-SUFFIX,mt.866655.xyz
 IP-CIDR,152.53.240.135/32,no-resolve
 IP-CIDR,152.53.54.201/32,no-resolve
 IP-CIDR,135.180.189.141/32,no-resolve
@@ -40,4 +40,5 @@ IP-CIDR,172.96.141.88/32,no-resolve
 IP-CIDR,92.112.124.85/32,no-resolve
 IP-CIDR,169.150.221.147/32,no-resolve
 IP-CIDR,192.99.35.111/32,no-resolve
+
 
