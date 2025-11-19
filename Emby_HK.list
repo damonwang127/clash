@@ -19,6 +19,7 @@ DOMAIN,zoxfree.3767483.xyz
 DOMAIN,lite.cn2gias.uk
 DOMAIN,lite-v6.cn2gias.uk
 DOMAIN,emby.liminalnet.com
+DOMAIN,cdn.luxrealm.space
 DOMAIN,a1.handoumedia.top
 DOMAIN,gy.meowfly.de
 DOMAIN,emby.my
@@ -46,6 +47,7 @@ IP-CIDR,172.96.141.88/32,no-resolve
 IP-CIDR,92.112.124.85/32,no-resolve
 IP-CIDR,169.150.221.147/32,no-resolve
 IP-CIDR,192.99.35.111/32,no-resolve
+
 
 
 
