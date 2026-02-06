@@ -1,18 +1,81 @@
 {
-  "title": "damon's Widgets",
-  "description": "fork widgets collection",
-  "icon": "https://github.com/InchStudio/ForwardWidgets/raw/master/icon.png",
+  "title": "Damon's Widgets",
+  "description": "Damon's Widgets",
+  "icon": "https://for-ward.vercel.app/icon/icon.PNG",
   "widgets": [
-     {
-      "id": "hot_picks",
+    {
+      "id": "____________4",
+      "title": "欧美风向标|口碑与热度",
+      "description": "聚合烂番茄(口碑)与流媒体平台(热度)，一站式掌握欧美影视动态。",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.2",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/ForwardWidgets/refs/heads/main/widgets/hebingban/bangdan-one.js"
+    },
+    {
+      "id": "_____________6",
+      "title": "影迷宝藏 | 系列与流派",
+      "description": "聚合【系列电影大满贯】与【趣味流派探索】，一键补番，探索未知。",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.3",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/ForwardWidgets/refs/heads/main/widgets/hebingban/movielist%26interesting.js"
+    },
+    {
+      "id": "____________8",
+      "title": "全球影视 | 分流聚合",
+      "description": "集大成之作：Trakt/豆瓣/平台分流，全线支持【年份•类型】展示。",
+      "requiredVersion": "0.0.1",
+      "version": "1.2.1",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/ForwardWidgets/refs/heads/main/widgets/cn-int-bangdan.js"
+    },
+    {
+      "id": "_____11",
+      "title": "弹幕多源",
+      "description": "支持添加多条api并自命名&繁简互转",
+      "requiredVersion": "0.0.2",
+      "version": "1.1.3",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/ForwardWidgets/refs/heads/main/widgets/danmuapi-ProMax.js"
+    },
+    {
+      "id": "_____15",
+      "title": "通用弹幕",
+      "description": "通用弹幕插件，支持腾讯、优酷、爱奇艺、哔哩哔哩、人人视频等平台",
+      "requiredVersion": "0.0.2",
+      "version": "0.15.1",
+      "author": "Baran",
+      "url": "https://for-ward.vercel.app/Widgets/danmu_universe.js"
+    },
+    {
+      "id": "______v2_16",
+      "title": "自动链接弹幕v2",
+      "description": "自动获取播放链接并从服务器获取弹幕【30% off code：CHEAP】",
+      "requiredVersion": "0.0.2",
+      "version": "1.13.6",
+      "author": "huangxd",
+      "url": "https://for-ward.vercel.app/Widgets/danmu_auto.js"
+    },
+    {
+      "id": "_____23",
       "title": "热门精选",
       "description": "获取最新热播剧和热门影片推荐",
       "requiredVersion": "0.0.1",
-      "version": "1.1.7",
+      "version": "1.5.37",
       "author": "两块",
-      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/HotPicks.js"
+      "url": "https://for-ward.vercel.app/Widgets/HotPicks.js"
     },
-     {
+    {
+      "id": "trakt___trakt______19",
+      "title": "Trakt我看&Trakt个性化推荐",
+      "description": "解析Trakt想看、在看、已看、片单、追剧日历以及根据个人数据生成的个性化推荐【30% off code：CHEAP】",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.15",
+      "author": "huangxd",
+      "url": "https://for-ward.vercel.app/Widgets/trakt.js"
+    },
+    {
       "id": "imdb_discovery_final_v2",
       "title": "IMDb 分类资源 v2",
       "description": "聚合 IMDb 热门影视资源",
@@ -20,33 +83,6 @@
       "version": "2.0.0",
       "author": "Autism",
       "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/IMDb.js"
-    },
-    {
-      "id": "trakt",
-      "title": "Trakt我看&Trakt个性化推荐",
-      "description": "解析Trakt想看、在看、已看、片单、追剧日历以及根据个人数据生成的个性化推荐",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.11",
-      "author": "huangxd",
-      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/trakt.js"
-    },
-    {
-      "id": "zhuijurili",
-      "title": "追剧日历(今/明日播出、周历、各项榜单、今日推荐)",
-      "description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、周历、各项榜单、今日推荐等",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.4",
-      "author": "huangxd",
-      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/zhuijurili.js"
-    },
-    {
-      "id": "forward.auto.danmu",
-      "title": "自动链接弹幕",
-      "description": "自动获取播放链接并从服务器获取弹幕",
-      "requiredVersion": "0.0.2",
-      "version": "1.0.22",
-      "author": "huangxd",
-      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_auto.js"
     }
   ]
 }
