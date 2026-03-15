@@ -1,4 +1,3 @@
-#自定义直连
 #PT
 DOMAIN-KEYWORD,m-team
 DOMAIN,hhan.club
@@ -10,11 +9,12 @@ DOMAIN,totheglory.im
 DOMAIN,pterclub.com
 DOMAIN,pterclub.net
 DOMAIN,tjupt.org
-DOMAIN,piggo.me
+DOMAIN-SUFFIX,piggo.me
 DOMAIN-KEYWORD,qingwa
 DOMAIN-KEYWORD,ptzone
 DOMAIN-KEYWORD,crabpt
 DOMAIN-KEYWORD,pthome
+DOMAIN-SUFFIX,wiki.hhan.club
 #tracker
 DOMAIN,tracker.m-team.cc
 DOMAIN,t.audiences.me
@@ -36,3 +36,6 @@ DOMAIN,tracker.open.cd
 DOMAIN,tracker.keepfrds.com
 DOMAIN,tracker.pterclub.com
 DOMAIN,tracker.pterclub.net
+#弹幕接口
+DOMAIN-SUFFIX,api.dandanplay.net
+DOMAIN-SUFFIX,fc.lyz05.cn
