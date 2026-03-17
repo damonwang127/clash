@@ -8,7 +8,6 @@ DOMAIN,emby.nebula-media.org
 DOMAIN,cf.lemby.me
 DOMAIN,emby.younoyes.com
 DOMAIN,embymv.link
-IP-CIDR,193.123.232.141/32,no-resolve
 DOMAIN,cc.coemn.com
 DOMAIN,cc.embycc.link
 DOMAIN,cc.carryz.net
