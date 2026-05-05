@@ -1,5 +1,6 @@
 #HK
 DOMAIN,free.28.al
+DOMAIN,test.28.al
 DOMAIN,m.mobaiemby.site
 DOMAIN,myg2.mobaiemby.site
 DOMAIN-SUFFIX,ucloudhost.top
@@ -10,8 +11,7 @@ DOMAIN,emby.younoyes.com
 DOMAIN,embymv.link
 DOMAIN,cc.coemn.com
 DOMAIN,cc.embycc.link
-DOMAIN,cc.carryz.net
-DOMAIN,dl.carryz.net
+DOMAIN-SUFFIX,carryz.net
 DOMAIN,ch.feiyue.lol
 DOMAIN,fych.feiyue.lol
 DOMAIN,lite.cn2gias.uk
