@@ -1,8 +1,6 @@
 #HK
-DOMAIN,free.28.al
-DOMAIN,test.28.al
-DOMAIN,m.mobaiemby.site
-DOMAIN,myg2.mobaiemby.site
+DOMAIN-SUFFIX,28.al
+DOMAIN-SUFFIX,mobaiemby.site
 DOMAIN-SUFFIX,ucloudhost.top
 DOMAIN-SUFFIX,sfcj.org
 DOMAIN,emby.nebula-media.org
