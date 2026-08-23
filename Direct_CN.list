@@ -56,3 +56,5 @@ DOMAIN,tracker.momentpt.top
 #弹幕接口
 DOMAIN-SUFFIX,api.dandanplay.net
 DOMAIN-SUFFIX,fc.lyz05.cn
+#直连
+DOMAIN,hky.wmuu.de
