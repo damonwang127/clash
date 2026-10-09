@@ -55,5 +55,7 @@ DOMAIN,tracker.momentpt.top
 #弹幕接口
 DOMAIN-SUFFIX,api.dandanplay.net
 DOMAIN-SUFFIX,fc.lyz05.cn
-#直连
+#天空大舞台
 DOMAIN,hky.wmuu.de
+#映盒管理页
+DOMAIN,yingbox.app
